@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Compile",
+      "setup": "",
+      "run": "make",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": null
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+Algorithm: Merge
+Time it took to sort 10 numbers: 1.0292e-05 seconds.
+Algorithm: Merge
+Time it took to sort 10 numbers: 1.168e-06 seconds.
+Algorithm: Merge
+Time it took to sort 10 numbers: 1.074e-06 seconds.
+Algorithm: Merge
+Time it took to sort 10 numbers: 1.017e-06 seconds.
+Algorithm: Merge
+Time it took to sort 1000 numbers: 0.000163701 seconds.
+Algorithm: Merge
+Time it took to sort 1000 numbers: 0.000106094 seconds.
+Algorithm: Merge
+Time it took to sort 1000 numbers: 0.000158939 seconds.
+Algorithm: Merge
+Time it took to sort 1000 numbers: 0.000128501 seconds.
+Algorithm: Merge
+Time it took to sort 10000 numbers: 0.00202447 seconds.
+Algorithm: Merge
+Time it took to sort 10000 numbers: 0.00125385 seconds.
+Algorithm: Merge
+Time it took to sort 10000 numbers: 0.00194645 seconds.
+Algorithm: Merge
+Time it took to sort 10000 numbers: 0.00149257 seconds.
+Algorithm: Merge
+Time it took to sort 100000 numbers: 0.0213185 seconds.
+Algorithm: Merge
+Time it took to sort 100000 numbers: 0.0125085 seconds.
+Algorithm: Merge
+Time it took to sort 100000 numbers: 0.0199621 seconds.
+Algorithm: Merge
+Time it took to sort 100000 numbers: 0.0169787 seconds.
+Algorithm: Bubble
+Time it took to sort 10 numbers: 2.666e-06 seconds.
+Algorithm: Bubble
+Time it took to sort 10 numbers: 1.103e-06 seconds.
+Algorithm: Bubble
+Time it took to sort 10 numbers: 1.16e-06 seconds.
+Algorithm: Bubble
+Time it took to sort 10 numbers: 8.84e-07 seconds.
+Algorithm: Bubble
+Time it took to sort 1000 numbers: 0.00739677 seconds.
+Algorithm: Bubble
+Time it took to sort 1000 numbers: 0.00777365 seconds.
+Algorithm: Bubble
+Time it took to sort 1000 numbers: 0.00759355 seconds.
+Algorithm: Bubble
+Time it took to sort 1000 numbers: 0.0053441 seconds.
+Algorithm: Bubble
+Time it took to sort 10000 numbers: 0.701264 seconds.
+Algorithm: Bubble
+Time it took to sort 10000 numbers: 0.64887 seconds.
+Algorithm: Bubble
+Time it took to sort 10000 numbers: 0.64244 seconds.
+Algorithm: Bubble
+Time it took to sort 10000 numbers: 0.422891 seconds.
+Algorithm: Bubble
+Time it took to sort 100000 numbers: 66.5909 seconds.
+Algorithm: Bubble
+Time it took to sort 100000 numbers: 64.7779 seconds.
+Algorithm: Bubble
+Time it took to sort 100000 numbers: 66.0008 seconds.
+Algorithm: Bubble
+Time it took to sort 100000 numbers: 42.3972 seconds.
+Algorithm: Insertion
+Time it took to sort 10 numbers: 6.25e-07 seconds.
+Algorithm: Insertion
+Time it took to sort 10 numbers: 6.07e-07 seconds.
+Algorithm: Insertion
+Time it took to sort 10 numbers: 4.8e-07 seconds.
+Algorithm: Insertion
+Time it took to sort 10 numbers: 3.91e-07 seconds.
+Algorithm: Insertion
+Time it took to sort 1000 numbers: 0.00178841 seconds.
+Algorithm: Insertion
+Time it took to sort 1000 numbers: 0.00345273 seconds.
+Algorithm: Insertion
+Time it took to sort 1000 numbers: 0.00180927 seconds.
+Algorithm: Insertion
+Time it took to sort 1000 numbers: 0.000964694 seconds.
+Algorithm: Insertion
+Time it took to sort 10000 numbers: 0.170851 seconds.
+Algorithm: Insertion
+Time it took to sort 10000 numbers: 0.360134 seconds.
+Algorithm: Insertion
+Time it took to sort 10000 numbers: 0.177239 seconds.
+Algorithm: Insertion
+Time it took to sort 10000 numbers: 0.0985599 seconds.
+Algorithm: Insertion
+Time it took to sort 100000 numbers: 18.4924 seconds.
+Algorithm: Insertion
+Time it took to sort 100000 numbers: 34.6524 seconds.
+Algorithm: Insertion
+Time it took to sort 100000 numbers: 17.327 seconds.
+Algorithm: Insertion
+Time it took to sort 100000 numbers: 9.55998 seconds.

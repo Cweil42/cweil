@@ -1,0 +1,11 @@
+8
+Moscow|Dallas|T
+Dallas|Houston|T
+Chicago|Dallas|C
+Austin|Houston|C
+Chicago|Austin|T
+Charleston|Houston|T
+Miami|Houston|T
+Houston|Miami|T
+
+
