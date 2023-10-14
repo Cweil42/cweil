@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/colinweil/OneDrive - Southern Methodist University/OS/Prog3/Weil_5343prog3_baseCase/main.cpp
+pthread.h
+-
+vector
+-
+queue
+-
+fstream
+-
+iostream
+-
+ctime
+-
+string
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/colinweil/OneDrive - Southern Methodist University/OS/Prog2/Weil_5343prog2_baseCase/main.c
+stdio.h
+-
+pthread.h
+/Users/colinweil/OneDrive - Southern Methodist University/OS/Prog2/Weil_5343prog2_baseCase/pthread.h
+stdlib.h
+-
+limits.h
+-
+time.h
+-
+

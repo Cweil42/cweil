@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/colinweil/OneDrive - Southern Methodist University/OS/Weil_5343prog1/main.c
+stdio.h
+-
+pthread.h
+/Users/colinweil/OneDrive - Southern Methodist University/OS/Weil_5343prog1/pthread.h
+stdlib.h
+-
+stdbool.h
+-
+

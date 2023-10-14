@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/colinweil/OneDrive - Southern Methodist University/OS/Weil_Prog4/prog4.cpp
+iostream
+-
+vector
+-
+deque
+-
+prog4_lru.h
+/Users/colinweil/OneDrive - Southern Methodist University/OS/Weil_Prog4/prog4_lru.h
+prog4_2nd.h
+/Users/colinweil/OneDrive - Southern Methodist University/OS/Weil_Prog4/prog4_2nd.h
+prog4_myown.h
+/Users/colinweil/OneDrive - Southern Methodist University/OS/Weil_Prog4/prog4_myown.h
+fstream
+-
+
+/Users/colinweil/OneDrive - Southern Methodist University/OS/Weil_Prog4/prog4_2nd.h
+vector
+-
+algorithm
+-
+iostream
+-
+tuple
+-
+map
+-
+queue
+-
+
+/Users/colinweil/OneDrive - Southern Methodist University/OS/Weil_Prog4/prog4_lru.h
+vector
+-
+algorithm
+-
+iostream
+-
+utility
+-
+map
+-
+queue
+-
+
+/Users/colinweil/OneDrive - Southern Methodist University/OS/Weil_Prog4/prog4_myown.h
+vector
+-
+

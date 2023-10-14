@@ -1,0 +1,9 @@
+3 5 5
+Colin
+Alek
+Timmy
+Daniel
+Jacob
+Thomas
+Antonio
+Michael
